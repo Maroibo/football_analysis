@@ -1,0 +1,45 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.mpeg
+*.mpg
+*.3gp
+*.m4v
+*.pt
+# Ignore any image or video files in all subdirectories
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.bmp
+**/*.tiff
+**/*.tif
+**/*.webp
+**/*.svg
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.mkv
+**/*.wmv
+**/*.flv
+**/*.webm
+**/*.mpeg
+**/*.mpg
+**/*.3gp
+**/*.m4v
